@@ -1,3 +1,3 @@
 # Demo2
 For practice purposes
-Waoo i am actially learnt to create a repositry
+Waoo I have actially learnt how to create a repositry and committ changes
